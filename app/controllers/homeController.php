@@ -5,7 +5,7 @@ class homeController extends controllerHelper{
 
         $data['css'] = 'home.css';
         $data['js'] = 'home.js';
-        $data['title'] = "Home";
+        $data['title'] = "Login";
         
         $this->loadView('home', $data);
     }
