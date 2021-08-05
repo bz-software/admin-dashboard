@@ -4,6 +4,6 @@
     <title><?=$title?></title>
 </head>
 <body>
-    <h1>Página não encontrada</h1><?=$title.'oi'?>
+    <h1>Página não encontrada</h1>
 </body>
 </html>
