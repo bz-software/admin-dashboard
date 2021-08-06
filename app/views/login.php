@@ -6,7 +6,7 @@
     <script src="<?=$_ENV["BASE_URL"]."app/assets/libraries/bootstrap.js"?>"></script>
     <link rel="stylesheet" href="<?=$_ENV["BASE_URL"]."app/assets/css/login.css"?>">
     <link rel="shortcut icon" href="<?=$_ENV["BASE_URL"]."app/assets/images/logo.png"?>"/>
-    <title><?=$title?></title>
+    <title>Login</title>
 </head>
 <body>
     <div id="content-area" class="card p-3">
